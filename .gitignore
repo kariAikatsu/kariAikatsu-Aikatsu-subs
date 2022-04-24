@@ -8,3 +8,7 @@
 !/\[kariAikatsu\] Aikatsu! \[BDRip\]/
 /\[kariAikatsu\] Aikatsu! \[BDRip\]/*
 !/\[kariAikatsu\] Aikatsu! \[BDRip\]/*.ass
+!/fonts/
+/fonts/*
+!/fonts/*.otf
+!/fonts/*.ttf
