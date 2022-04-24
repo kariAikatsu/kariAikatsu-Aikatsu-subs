@@ -5,3 +5,6 @@
 # ... but these:
 !/.gitignore
 !/README.md
+!/\[kariAikatsu\] Aikatsu! \[BDRip\]/
+/\[kariAikatsu\] Aikatsu! \[BDRip\]/*
+!/\[kariAikatsu\] Aikatsu! \[BDRip\]/*.ass
