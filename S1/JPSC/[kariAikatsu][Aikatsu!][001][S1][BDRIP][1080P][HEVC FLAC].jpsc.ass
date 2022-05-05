@@ -26,8 +26,8 @@ Style: 莓--中文,FZZhunYuan-M02,65,&H00FFFFFF,&H00FFFFFF,&H008348FF,&H00000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,--STAFF--
-Dialogue: 0,0:23:44.13,0:23:47.62,STAFF1,,0,0,0,,{\pos(1494,790)}{\fs45}翻译&校对\h\h\h\h\h\hMineralwaterXu
-Dialogue: 0,0:23:44.13,0:23:47.62,STAFF1,,0,0,0,,{\pos(1494,870)}{\fs45}打轴&后期\h\h\h\h\h\hMineralwaterXu
+Dialogue: 0,0:23:44.13,0:23:47.62,STAFF1,,0,0,0,,{\pos(1494,790)}{\fs45}翻译&校对      MineralwaterXu
+Dialogue: 0,0:23:44.13,0:23:47.62,STAFF1,,0,0,0,,{\pos(1494,870)}{\fs45}打轴&后期      MineralwaterXu
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,--OP--中文--
 Dialogue: 0,0:01:34.97,0:01:36.41,偶活OP1,,0,0,0,,{\pos(960,80)}Hi, signalize!
 Dialogue: 0,0:01:36.57,0:01:41.75,偶活OP1,,0,0,0,,{\pos(960,80)}答案在更高的天空彼岸
